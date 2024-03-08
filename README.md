@@ -1,2 +1,2 @@
 # github-demo
-Author - Aditya Kulkarni
+Author - Aditya Kulkarni (Algo Prime)
